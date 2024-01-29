@@ -1,5 +1,5 @@
 # Frontend Mentor - Stats preview card component
-https://safiaaskar.github.io/stats-preview-card-component-main/
+https://stats-preview-cards-component-main.netlify.app/
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
